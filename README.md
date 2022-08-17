@@ -1,2 +1,2 @@
 # study_python
-for repository to study python
+A personal repository to study python
